@@ -1,6 +1,6 @@
 # Mengyang Liu Academic Website
 
-Static GitHub Pages package for `www.mengyangliu.com`.
+Static, bilingual, multi-page GitHub Pages package for `www.mengyangliu.com`.
 
 ## Publish
 
