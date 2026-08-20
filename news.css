@@ -1,1 +1,0 @@
-.news-list{display:grid;gap:75px}.feature.reverse{grid-template-columns:.75fr 1.25fr}.feature.reverse img{order:2}@media(max-width:900px){.feature.reverse{grid-template-columns:1fr}.feature.reverse img{order:0}}
